@@ -1,5 +1,5 @@
 	program main
-      implicit real*8 (a-h, o-z)
+       implicit real*8 (a-h, o-z)
 	integer, parameter :: ni = 663, nj = 24
 	integer, parameter :: nl = 3, nb = 2, nm = 3 
 	integer, parameter :: nt = 474
